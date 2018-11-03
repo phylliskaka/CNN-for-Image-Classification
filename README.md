@@ -17,6 +17,9 @@ Data Preview:
 
 The data including 10 types of hand gesture to represent integer range from 0 to 9. The dataset contain 1800+ RGB images. Considering the speed of training, in this project, we only take 150 RGB images for training(each 15 images). The [reduced dataset](https://github.com/phylliskaka/ResNet50-for-image-recognition/tree/master/input_dataset) is avaible in the repository.
 
+## Package
+In this project, we used library of Keras, OpenCV, Scipy, Tensorflow, Scikit-learn, Numpy
+
 ## ResNet50 introduction 
 
 1. What and Why ResNet50    
