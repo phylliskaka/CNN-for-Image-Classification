@@ -1,5 +1,6 @@
 # CNN-for-image-classification
-Implementing neural network for image classification either from scratch or using Keras Application.
+Implementing neural network for image classification using two ways: from scratch and using Keras Application.
 ## Network 
 1. ResNet50
-2. VGG16 
+2. VGG16
+3. InceptioV3
